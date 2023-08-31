@@ -1,1 +1,6 @@
 key.txt
+TOKENKEY.txt
+log.txt
+__pycache__/tools.cpython-39.pyc
+__pycache__/tools.cpython-310.pyc
+Data/*
