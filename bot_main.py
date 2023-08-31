@@ -1,3 +1,6 @@
+# このコードの一部は以下のプロジェクトからの引用です。
+# https://github.com/kiyu-git/Arduino-Sensor-Data-Viewer
+# https://github.com/kiyu-git/Arduino-Serial-Plot-Recorder
 import tweepy
 import serial
 from serial.tools import list_ports
